@@ -1,0 +1,182 @@
+* {
+	margin:0;
+	padding:0;
+	border-radius:0;
+	-webkit-margin-after:0;
+	-webkit-margin-before:0;
+	font-family: Arial;
+	
+}
+html,body {
+	height: 100%; 
+	background:#000 url('/web/20140528040144im_/http://www.full-service.olsztyn.pl/pliki/tlo.jpg')top center no-repeat;
+}
+
+.wrapper { 
+min-height: 100%; 
+height: auto !important; 
+height: 100%; 
+margin: 0 auto -131px; /* dolny margines = minusowa wartoœæ wysokoœci stopki wliczaj¹c w to ewentualny padding stopki */ 
+}
+
+h1,h2,h3,h4,p{
+	padding-bottom:10px;
+}
+h1 {
+color:white;
+	font-size:1.15em;
+}
+h2{
+	font-size:1.05em;
+}
+h3{
+	font-size:1em;
+}
+	
+	
+#headerholder{
+	text-align:center;
+	background-color:#012B7F;
+	height:75px;
+	width:100%;
+	
+	}
+
+#head
+	{
+	height:100px;
+	width:900px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	}
+	
+#head2{
+	margin-top:-25px;
+	height:30px;
+	width:100%;
+	background:url('/web/20140528040144im_/http://www.full-service.olsztyn.pl/pliki/head2.png')repeat-x;
+}
+	
+#imgLogo
+	{
+	border-radius:6px;
+	margin-top:10px;
+	margin-left:5px;
+	float:left;
+	}
+	
+#volmer{
+position:relative;
+top:60;
+left:-300;
+font-size:20px;
+}
+	
+
+#kontakt{
+	margin-top:-20px;
+	float:left;
+	font-size:18px;
+	}
+	
+#mmenu{
+	width:900px;
+	height:60px;
+	margin:auto;
+	padding:10px;
+	}
+	
+#elmenu{
+	text-align:center;
+	width:135px;
+	background-image:url('/web/20140528040144im_/http://www.full-service.olsztyn.pl/pliki/menugrad.jpg');
+	border-radius:10px;
+	box-shadow: 3px 3px 3px #333; 
+	border:1px solid #fff;
+	padding:6px;
+	float:left;
+	color:white;
+	margin-left:6px;
+	font-weight:450;
+	}
+	
+#amenu{
+font-family: 'Istok Web', Arial;
+	font-size:17px;
+	text-decoration:none;
+	color:white;
+	}
+#amenu:hover {color:#8bd800;}
+
+#content{
+	background-color:#b2b977;
+	width:800px;
+	border-radius:10px;
+	box-shadow: 5px 5px 5px #000; 
+	border:1px solid #000;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:10px;
+	padding:25px;
+	opacity:0.85;
+	}
+
+div.obiekt{
+	background-color:white;
+	padding:15px;
+	border-radius:10px;
+	border:1px solid #ccc;
+	}
+ 
+.push {
+height:130px;
+}
+.footer{
+	padding-top:3px;
+	border-top:1px solid black;
+	width:100%;
+	background-color:#012B7F;
+	height:130px;
+
+}
+.footer .cs {
+	display:block;
+	margin: 0 auto;
+	width:960px;
+}
+.footer .cd, .footer .cr {
+	font-size:9pt;
+	color:#b2b977;
+	position:relative;
+	display:block;
+	padding:4px;
+}
+.footer .cd {
+	text-align:right;
+}
+.footer .cr {
+	float:left;
+}
+.footer a{
+	color:#b2b977;
+}
+/*
+     FILE ARCHIVED ON 04:01:44 May 28, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:24:58 Feb 26, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.145
+  exclusion.robots.policy: 0.128
+  cdx.remote: 0.124
+  esindex: 0.013
+  LoadShardBlock: 754.654 (6)
+  PetaboxLoader3.datanode: 381.335 (7)
+  load_resource: 240.96
+  PetaboxLoader3.resolve: 99.887
+*/
